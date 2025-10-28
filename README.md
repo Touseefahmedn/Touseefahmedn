@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=4000&pause=1000&color=2B6FFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Touseef+Ahmed;🚀+Building+Modern+Web+Apps;💡+Creator+of+RankMine;🌙+Islamic+Projects+%26+AI+Tools+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=4000&pause=1000&color=2B6FFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Touseef+Ahmed;🚀+Building+Modern+Web+Apps;💡+Creator+of+RankMine;🌙+Islamic+Projects+%26+AI+Tools+Developer" alt="Typing SVG" />
 </h1>
 
 ---
@@ -39,7 +39,7 @@ under the brand **RankMine** — a hub for creative and Islamic projects.
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Touseefahmedn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Touseefahmedn&theme=tokyonight&hide_border=true&border_radius=12" height="150">
+ <img src="https://streak-stats.demolab.com?user=Touseefahmedn&theme=tokyonight&hide_border=true&border_radius=12" height="150">
 </p>
 
 ---
