@@ -1,42 +1,53 @@
+<!-- 🌟 Animated RankMine Profile README -->
 <p align="center">
   <img src="https://github.com/Touseefahmedn/rankmine/raw/main/logo.png" alt="RankMine Logo" width="120">
 </p>
 
-<h1 align="center" style="color:#0f4c75;">🌟 Touseef Ahmed</h1>
-
-<p align="center">
-  Creator of <b>RankMine</b> | Web App Developer | AI Tools Builder | Islamic Projects & Productivity Apps 🌙
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=4000&pause=1000&color=2B6FFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Touseef+Ahmed;🚀+Building+Modern+Web+Apps;💡+Creator+of+RankMine;🌙+Islamic+Projects+%26+AI+Tools+Developer" alt="Typing SVG" />
+</h1>
 
 ---
 
-### 👋 About Me
-- 💻 Building **modern PWAs, AI-powered tools, and digital platforms**  
-- 🌐 Founder of **[RankMine](https://rankmine.blogspot.com)** — a smart hub for creative tools & Islamic learning  
-- 📱 Working on **Touseef LiveCast**, **AI Tools Hub**, and **Online PDF Editor Hub**  
-- 🌙 Passionate about spreading **Islamic knowledge through technology**  
+### 💼 About Me
+I'm **Touseef Ahmed**, a passionate web creator building **smart, modern PWAs** and **AI-powered tools**  
+under the brand **RankMine** — a hub for creative and Islamic projects.  
 
----
-
-### 🚀 Featured Projects
-| Project | Description |
-|----------|--------------|
-| 🧠 [RankMine](https://touseefahmedn.github.io/rankmine) | Smart all-in-one tools & apps hub |
-| 🎥 [Touseef LiveCast](https://github.com/Touseefahmedn/livecast) | Private admin tool for live streaming |
-| 📖 [Islamic Quiz Games](https://islamicquizgamezz.blogspot.com/) | Learn, play, and grow with Islamic knowledge |
-| 🧾 [Online PDF Editor Hub](https://onlinepdfeditorhub.blogspot.com/) | Edit, merge, and manage PDFs online |
+🌟 Projects I love working on:
+- 🧠 **AI Tools & Utility Apps**  
+- 🌙 **Islamic & Educational Platforms**  
+- 🎥 **Touseef LiveCast** (personal live admin dashboard)  
+- 🧾 **Online PDF Editor Hub**
 
 ---
 
 ### 🧰 Tech Stack
-`HTML` • `CSS` • `JavaScript` • `Firebase` • `Blogger XML` • `PWA` • `GitHub Pages`
+`HTML` • `CSS` • `JavaScript` • `Firebase` • `PWA` • `Blogger` • `GitHub Pages`
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Featured Projects
+| 🌟 Project | 🌍 Link |
+|-------------|----------|
+| 🧠 RankMine | [touseefahmedn.github.io/rankmine](https://touseefahmedn.github.io/rankmine) |
+| 🎥 Touseef LiveCast | [github.com/Touseefahmedn/livecast](https://github.com/Touseefahmedn/livecast) |
+| 🧾 Online PDF Editor | [onlinepdfeditorhub.blogspot.com](https://onlinepdfeditorhub.blogspot.com/) |
+| 📖 Islamic Quiz Games | [islamicquizgamezz.blogspot.com](https://islamicquizgamezz.blogspot.com/) |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Touseefahmedn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Touseefahmedn&theme=tokyonight&hide_border=true&border_radius=12" height="150">
+</p>
+
+---
+
+### 🌍 Connect with Me
 <p align="center">
   <a href="https://www.youtube.com/@touseefahmedn"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://x.com/TouseefAhmed_n"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/TouseefAhmed_n"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.instagram.com/touseefahmed.n"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/Touseefahmedn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://rankmine.blogspot.com"><img src="https://img.shields.io/badge/Website-0f4c75?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
@@ -45,5 +56,6 @@
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Touseefahmedn">Touseef Ahmed</a>
+  <img src="https://raw.githubusercontent.com/Touseefahmedn/rankmine/main/logo.png" width="60"><br>
+  <b>Made with ❤️ by <a href="https://github.com/Touseefahmedn">Touseef Ahmed</a></b>
 </p>
